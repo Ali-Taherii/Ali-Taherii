@@ -1,5 +1,8 @@
 # 💫 About Me:
-I’m currently working on Gabbers platform<br>Expanding my knowledge on OOP, Cybersecurity and SEO<br>Looking forward to collaborations
+Computer Science student at the university of Nicosia
+Head developer at Gabbers.org
+Expanding knowledge on OOP, Cybersecurity, and SEO
+Looking forward to collaborations
 
 
 # 💻 Tech Stack:
