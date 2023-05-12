@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👦 About Me:
 Computer Science student at the university of Nicosia<BR>
 Head developer at Gabbers.org<BR>
 Expanding knowledge on OOP, Cybersecurity, and SEO<BR>
