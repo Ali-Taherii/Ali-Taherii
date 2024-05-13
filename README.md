@@ -1,10 +1,4 @@
 <div align="center">
-  <img height="0" src=""  />
-</div>
-
-###
-
-<div align="center">
   <a href="https://www.linkedin.com/in/ali-taheri-936338234/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -13,6 +7,12 @@
   </a>
   <a href="https://t.me/aleikoom" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+</div>
+<BR>
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Ali-taherii&icon=0&color=0" />
   </a>
 </div>
 
@@ -34,7 +34,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
@@ -65,6 +65,11 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ali-taherii&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-taherii&theme=dark&hide_border=false" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-taherii&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</div>
 
 ###
 
