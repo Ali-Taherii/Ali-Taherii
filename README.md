@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">👩‍💻 Third-year Comp-Sci student at UNIC<br>💻 Proficient in C++, C#, Git<br>🔧 Skilled in Go, PostgreSQL, MySQL, Java, Haskell<br>🎮 Virtual Reality Lab Assistant with Unity experience<br>📱 Experienced in ASP.NET, React Native, and React.js for mobile and web app development<br>🏆 Enthusiastic participant in programming competitions<br>🔍 Currently seeking internships</p>
+<p align="left">👩‍💻 Third-year Comp-Sci student at UNIC<br>💻 Proficient in C++, C#, JS<br>🔧 Skilled in Go, PostgreSQL, MySQL, Java, Haskell<br>🎮 Virtual Reality Lab Assistant with Unity experience<br>📱 Experienced in ASP.NET, React Native, and React.js for mobile and web app development<br>🏆 Enthusiastic participant in programming competitions<br>🔍 Currently seeking internships</p>
 
 ###
 
